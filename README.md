@@ -15,5 +15,6 @@ go get github.com/sf1/opengl-es-go/v2.0/gl
 The headers necessary for installing this and any of the [go-gl](https://github.com/go-gl) packages can be installed via:
 
 ```
-sudo apt-get install mesa-common-dev libgl1-mesa-dev libxrandr-dev libxcursor-dev libxinerama-dev libxi-dev libegl1-mesa-dev
+sudo apt-get install mesa-common-dev libgl1-mesa-dev libxrandr-dev \
+libxcursor-dev libxinerama-dev libxi-dev libegl1-mesa-dev
 ```
