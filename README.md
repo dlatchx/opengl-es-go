@@ -12,7 +12,7 @@ go get github.com/sf1/opengl-es-go/v2.0/gl
 
 ### Ubuntu / Debian Dependencies
 
-The headers necessary for installing this and any of the [go-gl](https://github.com/go-gl) packages can be installed via:
+The necessary C headers and libraries for this and any of the [go-gl](https://github.com/go-gl) packages can be installed via:
 
 ```
 sudo apt-get install mesa-common-dev libgl1-mesa-dev libxrandr-dev \
